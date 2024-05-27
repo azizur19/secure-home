@@ -8,7 +8,7 @@ Project description. This project aims to
 ◻Enhance security with fingerprint access
 ◻Green and smart living
 ◻Gas/fire sensors with emergency notifications
-◻Video monitoring using image processing
+◻Video monitoring using image processing; Follow this: https://github.com/heartkilla/yolo-v3
 It creates an intelligent, efficient, and secure living environment.
 ![image](https://github.com/azizur19/secure-home/assets/117139483/c2ecadd3-5438-4cfb-9d50-5cf9de5a3d99)
 
