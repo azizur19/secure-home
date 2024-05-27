@@ -28,9 +28,9 @@ byte NO_OF_SSID       =     2;
 
 //Enter the device IDs here
 #define device_ID_1   "xxxxxxxxxxxxxxxxxxxxxxxx"
-#define device_ID_2   "6556f424377c5cde86947f1e"
-#define device_ID_3   "6556f466377c5cde86947f61"
-#define device_ID_4   "6556f479377c5cde86947f83"
+#define device_ID_2   "xxxxxxxxxxxxxxxxxxxxxxxx"
+#define device_ID_3   "xxxxxxxxxxxxxxxxxxxxxxxx"
+#define device_ID_4   "xxxxxxxxxxxxxxxxxxxxxxxx"
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 34  //unused 
@@ -122,13 +122,13 @@ uint8_t id;
 //String apiKey = "9855452";              //Add your Token number that bot has sent you on WhatsApp messenger
 //String phone_number = "+8801571206300"; //Add your WhatsApp app registered phone number (same number that bot send you in url)
 String my_apiKey = "3807964";              //Add your Token number that bot has sent you on WhatsApp messenger
-String my_phone_number = "+8801744548025"; //Add your WhatsApp app registered phone number (same number that bot send you in url)
+String my_phone_number = "+88017xxxxxxxx"; //Add your WhatsApp app registered phone number (same number that bot send you in url)
 String apiKey = "9855452";              //Add your Token number that bot has sent you on WhatsApp messenger
-String phone_number = "+8801571206300"; //Add your WhatsApp app registered phone number (same number that bot send you in url)
+String phone_number = "+88017xxxxxxxx"; //Add your WhatsApp app registered phone number (same number that bot send you in url)
 
 String url;                            //url String will be used to store the final generated URL
 
-String gsm_phone_num = "+8801312601063"; //"+8801571206300";
+String gsm_phone_num = "+88017xxxxxxxx";
 
 
 
